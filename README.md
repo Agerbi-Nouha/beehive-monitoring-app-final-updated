@@ -51,3 +51,8 @@ Minimal example:
 ```
 
 The backend fills missing fields from the previous measurement/default values so single-sensor testing is easier.
+
+
+Developed by:
+- Agerbi Nouha
+- Yahyaoui Soulaima
